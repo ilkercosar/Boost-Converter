@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=NetIC1_11 Pin=Q1-3
+Change Component Footprint: Designator=Q1 Old Footprint=369-03 New Footprint=TO254P1052X465X1989-3
+Change Component Comment : Designator=Q1 Old Comment=Triac/BT136 New Comment=IRF540
+Change component parameters: Designator = "Q1"; Footprint = "TO254P1052X465X1989-3"; UniqueID = "\IUGGRQRT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "IRF540"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-220-3 Samsung"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF540/Vishay%20Siliconix/view-part/1024526/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_11 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-3
